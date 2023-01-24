@@ -46,13 +46,13 @@
     <release version="v0.6.0.1-alpha" date="2022-05-20" type="development">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.6.0.1-alpha</url>
     </release>
-    <release version="v0.6-alpha" date="2022-03-27" type="stable">
+    <release version="v0.6.0.0-alpha" date="2022-03-27" type="stable">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.6-alpha</url>
     </release>
     <release version="v0.5.4.2-alpha" date="2022-03-09" type="development">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.5.4.2-alpha</url>
     </release>
-    <release version="v0.5.4-alpha" date="2022-03-06" type="stable">
+    <release version="v0.5.4.0-alpha" date="2022-03-06" type="stable">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.5.4-alpha</url>
     </release>
     <release version="v0.5.3-alpha4" date="2022-02-05" type="development">
