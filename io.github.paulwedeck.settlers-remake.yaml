@@ -30,8 +30,8 @@ modules:
       - install -Dm644 io.github.paulwedeck.settlers-remake.metainfo.xml -t  $FLATPAK_DEST/share/metainfo
     sources:
       - type: archive
-        url: https://github.com/paulwedeck/settlers-remake/releases/download/v0.6.0.6-alpha/JSettlers.zip
-        sha256: d22880a2ec52dc3e04410666b0dc39b4f7731fe2cf807a3ba45699b2271e27dd
+        url: https://github.com/paulwedeck/settlers-remake/releases/download/v0.6.0.9-alpha/JSettlers.zip
+        sha256: 98f60ba9a0d4dbc81015be6a174306bb1434d34de237ef01ff907b7823dea39d
         dest: JSettlers
       - type: file
         url: https://github.com/paulwedeck/settlers-remake/raw/5d15b723153d9ac1af3d2d8b7ae25911162d84f1/jsettlers.main.swing/src/main/resources/jsettlers/main/swing/icon.png
